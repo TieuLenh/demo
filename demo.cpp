@@ -20,6 +20,8 @@ void enterLi(nd &head){
         i++;
     }
 }
+
+
 void showLi(nd head){
     nd approve = head;
     while(approve != nullptr){
